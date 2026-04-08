@@ -3,9 +3,13 @@
 Implementasi UI Slicing sederhana menggunakan Flutter.
 Menampilkan daftar smartphone beserta spesifikasi dan harganya.
 
+ ---
+
 ## 📸 Screenshot
 
 ![Phone List](screenshots/phone_list.png)
+
+ ---
 
 ## ✨ Fitur
 
@@ -34,6 +38,7 @@ Jika ingin menjalankan proyek ini pada komputermu, ikuti langkah-langkah berikut
    ```bash
    flutter run
    ```
+
  ---
 
 ## 🛠️ Teknologi
