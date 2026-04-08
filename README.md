@@ -1,17 +1,30 @@
-# tugas_slicing
+# Tugas Slicing - Katalog Smartphone
 
-A new Flutter project.
+Implementasi UI Slicing sederhana menggunakan Flutter.
+Menampilkan daftar smartphone beserta spesifikasi dan harganya.
 
-## Getting Started
+## 📸 Screenshot
 
-This project is a starting point for a Flutter application.
+![Phone List](screenshots/phone_list.png)
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Fitur
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Daftar HP dengan kartu (card) yang rapi
+- Menampilkan spesifikasi lengkap (prosesor, RAM, baterai, kamera, layar)
+- Harga dalam format Rupiah
+- Warna tema berbeda per brand
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Cara Menjalankan
+
+```bash
+git clone https://github.com/USERNAME/tugas_slicing.git
+cd tugas_slicing
+flutter pub get
+flutter run
+```
+
+## 🛠️ Teknologi
+
+- Flutter SDK
+- Dart
+- Material Design 3
