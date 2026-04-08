@@ -18,6 +18,8 @@ Menampilkan daftar smartphone beserta spesifikasi dan harganya.
 - Harga dalam format Rupiah
 - Warna tema berbeda per brand
 
+ ---
+
 ## 🚀 Cara Menjalankan
 
 Jika ingin menjalankan proyek ini pada komputermu, ikuti langkah-langkah berikut:
